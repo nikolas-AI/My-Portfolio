@@ -203,3 +203,50 @@ footer p{
     font-family: Roboto;
     font-weight: bold;
 }
+
+@media (max-width: 500px) {
+    #navbar {
+        height: 70px
+    }
+    #logo {
+        height: 70px;
+    }
+    .navicons {
+        width: 80%;
+        font-size: 15px;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    .text {
+        font-size: 16px;
+    }
+    
+    .kaleidscope img{
+        margin-top: 20px;
+        height: 250px;
+        width: 250px;
+    }
+    
+    h2 {
+        font-size: 20px;
+    } 
+    #about p {
+        width: 70%;
+        margin: auto;
+        padding: 8px 20px;
+        text-align: justify;
+        color: #3f3838;
+        font-size: 18px;
+        line-height: 1.5;
+        font-family: Times, serif;
+    }
+    #about .key {
+        position: relative;
+        left: 50%;
+        height: 250px;
+        width: 100px;
+        animation: rotateKey 6s infinite linear;
+    }
+}
