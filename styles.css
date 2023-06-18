@@ -51,7 +51,6 @@ a {
 h1 {
     font-size: 40px;
     font-family: Arial;
-    padding-top: 10%;
 }
 
 .text {
@@ -174,8 +173,12 @@ h3 {
 
 #connect img {
     height: 50px;
-
     width: 50px;
+    transition: transform 1s;
+}
+
+#connect img:hover{
+    transform: scale(1.2);
 }
 
 .quote {
