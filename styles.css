@@ -29,7 +29,7 @@ html {
 .navicons {
     display: flex;
     justify-content: space-around;
-    width: 50%;
+    width: 60%;
     font-size: 25px;
     font-family: Roboto;
     font-weight: bold;
@@ -213,7 +213,7 @@ footer p{
     }
     .navicons {
         width: 80%;
-        font-size: 15px;
+        font-size: 18px;
     }
     
     h1 {
@@ -251,13 +251,17 @@ footer p{
     }
     h3 {
         font-size: 20px;
+        padding: 20px 0 40px 0;
+    }
+    .parent-quote {
+        margin-top: 50px;
     }
     #connect img {
         height: 30px;
         width: 30px;
     }
     .quote {        
-        font-size: 15px;       
+        font-size: 15px;  
     }
     hr {
         height: 8px;
