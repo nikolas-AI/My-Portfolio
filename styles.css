@@ -142,4 +142,59 @@ h2 {
     height: 300px;
 }
 
+#connect {
+    width: 100%;
+    min-height: 50vh;
+    height: auto;
+    padding: 200px 0;
+    background: linear-gradient(#e3e5e7, #8f97bc);
+    color: black;
+}
+h3 {
+    text-align: center;
+    font-size: 35px;
+    padding: 50px 0 100px 0;
+}
+
+.parent-quote {
+    background-color: #8f97bc;
+    width: 70%;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px rgb(88, 83, 83);
+    margin-top: 100px;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#connect img {
+    height: 50px;
+
+    width: 50px;
+}
+
+.quote {
+    text-align: justify;
+    font-size: 20px;
+    padding: 50px 0;
+    width: 90%;
+    margin: auto;
+}
+
+hr {
+    background-color: rgb(30, 27, 27);
+    height: 10px;
+}
+
+footer {
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+}
+
 
