@@ -59,7 +59,7 @@ h1 {
     padding-top: 10px;
     text-align: center;
     font-size: 19px;
-    color: royalblue;
+    color: rgb(85, 84, 92);
 }
 
 .kaleidscope img{
@@ -192,9 +192,11 @@ hr {
 }
 
 footer {
-    background-color: grey;
+    background-color: #54aded;
     text-align: center;
     padding: 10px;
 }
-
-
+footer p{
+    font-family: Roboto;
+    font-weight: bold;
+}
