@@ -125,7 +125,7 @@ h2 {
 
 #projects {
     width: 100%;
-    padding-top: 100px;
+    padding: 100px 0;
     background: linear-gradient(to bottom, #e9a68b, #6f6ad2);    
 }
 .tiles {
@@ -145,7 +145,7 @@ h2 {
     width: 100%;
     min-height: 50vh;
     height: auto;
-    padding: 200px 0;
+    padding: 100px 0;
     background: linear-gradient(#e3e5e7, #8f97bc);
     color: black;
 }
@@ -191,7 +191,7 @@ h3 {
 
 hr {
     background-color: rgb(30, 27, 27);
-    height: 10px;
+    height: 3px;
 }
 
 footer {
@@ -264,7 +264,7 @@ footer p{
         font-size: 15px;  
     }
     hr {
-        height: 8px;
+        height: 3px;
     }
     footer p{
         font-size: 15px;
@@ -327,7 +327,7 @@ footer p{
         font-size: 18px;       
     }
     hr {
-        height: 9px;
+        height: 3px;
     }
     footer p{
         font-size: 16px;
