@@ -22,8 +22,10 @@ html {
     z-index: 4;
 }
 
-#logo {
-    height: 100px;
+ a #logo {
+    height: 95px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(13, 66, 88);
 }
 
 .navicons {
@@ -208,8 +210,8 @@ footer p{
     #navbar {
         height: 70px
     }
-    #logo {
-        height: 70px;
+    a #logo {
+        height: 65px;
     }
     .navicons {
         width: 80%;
@@ -275,8 +277,8 @@ footer p{
     #navbar {
         height: 85px
     }
-    #logo {
-        height: 85px;
+    a #logo {
+        height: 80px;
     }
     .navicons {
         width: 80%;
