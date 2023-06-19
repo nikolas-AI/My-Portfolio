@@ -141,6 +141,8 @@ h2 {
 .project-tile img {
     width: 300px;
     height: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 3px rgb(64, 64, 67);
 }
 
 #connect {
