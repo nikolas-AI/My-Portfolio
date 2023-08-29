@@ -54,10 +54,7 @@ a #logo {
 }
 
 .navicons a:hover {
-    color: rgb(10, 10, 12);
-    text-decoration: none;
-    border-bottom: 2px solid #f7f7f6;
-    border-radius: 2px;
+    color: rgb(255, 238, 0);
 }
 
 a {
