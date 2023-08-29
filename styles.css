@@ -27,17 +27,17 @@ html {
     left: 0;
     width: 100%;
     height: 100px;
-    background-color: #54aded;
+    background-color: #0671bd;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 4;
 }
 
- a #logo {
+a #logo {
     height: 95px;
     border-radius: 10px;
-    box-shadow: 2px 2px 2px 2px rgb(13, 66, 88);
+    box-shadow: 2px 2px 2px 2px rgb(18, 36, 44);
 }
 
 .navicons {
@@ -50,6 +50,7 @@ html {
 }
 a {
     text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 
 #welcome-section {
@@ -221,13 +222,13 @@ hr {
 }
 
 footer {
-    background-color: #54aded;
+    background-color: #283f4b;
     text-align: center;
     padding: 10px;
+    color: rgb(248, 254, 255);
 }
 footer p{
     font-family: Roboto;
-    font-weight: bold;
 }
 
 @media (max-width: 700px) {
